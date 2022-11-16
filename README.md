@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=220&section=header&text=wonghye%20&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=220&section=header&text=wonghye%20&fontSize=70animation=blink" />
 
 
 <!--
