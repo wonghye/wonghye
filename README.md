@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=wonghye%20&fontSize=90" />
+
 
 <!--
 **wonghye/wonghye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
