@@ -5,8 +5,8 @@
 <br>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_wonghye/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamhyewon0117@gmail.com"/></a>
+  <a href="https://www.instagram.com/_wonghye/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_wonghye/"/></a>&nbsp
+  <a href="mailto:iamhyewon0117@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamhyewon0117@gmail.com"/></a>
 </p>
 
 <br><br>
