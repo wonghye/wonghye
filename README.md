@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=random&height=220&section=header&text=wonghye%20&fontSize=70&animation=blinking" />
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=220&section=header&text=wonghye%20&fontSize=70&animation=blinking" />
+</div>
+
+
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonghye&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <!--
